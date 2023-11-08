@@ -1,0 +1,13 @@
+TDD
+
+ 1) Ecrire le test
+       J'appelle une fonction ajout (add(2,3)), je m'attends à obtenir la réponse 5
+
+     --> Si je test sans code ==> ECHEC
+ 2) Implémenter la fonction ajout 
+     
+      -->  let add = function(a,b){ return a;}
+
+ 3) lancer le test unitaire
+      --> si ça plante , je modifie ma fonction ==> let add = function(a,b){ return a+b;}
+      --> si ça réussi , je crie victoire et je fais la danse de la victoire

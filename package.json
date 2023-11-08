@@ -1,0 +1,20 @@
+{
+  "name": "jsunittest",
+  "version": "1.0.0",
+  "description": "quelques petits exemples de test en node, js, expres,etc...",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "test",
+    "unitaires"
+  ],
+  "author": "Nous",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
